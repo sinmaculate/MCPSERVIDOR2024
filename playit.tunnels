@@ -49,11 +49,101 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "lines-highly.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "2c53ae85-059e-4804-880d-952042e88505",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2519,
+          "port_start": 2518,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-06-20T04:15:46.233541Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "c446cadb-185d-46b3-aa06-60227e472702",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "482f83b4-8229-4a63-9c1a-cb19962e1918",
+          "agent_name": "NUEVO AGENNTE GITHUB",
+          "local_ip": "127.0.0.1",
+          "local_port": 2518
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "made-succeed.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "8e00bcd2-59e1-4718-86c6-664b66b60670",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2521,
+          "port_start": 2520,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-06-20T04:22:53.879497Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "fa8472de-286e-4ef3-a1d9-c215c2bf6292",
+      "name": "Minecraft Bedrock",
+      "origin": {
+        "data": {
+          "agent_id": "482f83b4-8229-4a63-9c1a-cb19962e1918",
+          "agent_name": "NUEVO AGENNTE GITHUB",
+          "local_ip": "127.0.0.1",
+          "local_port": 2520
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-bedrock"
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 2,
+    "desired": 2
   }
 }
