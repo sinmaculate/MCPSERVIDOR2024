@@ -1,4 +1,4 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718907596359 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718908606775 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -6,7 +6,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907599487 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908609903 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -14,7 +14,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907602792 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908613033 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -22,7 +22,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907605939 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908616163 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -30,7 +30,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907609073 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908619421 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -38,7 +38,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907612174 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908622548 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -46,7 +46,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907615288 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908625711 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -54,7 +54,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907618404 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908628813 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -62,7 +62,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907621561 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908631954 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -70,7 +70,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907624674 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908635066 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -78,7 +78,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907627805 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908638221 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -86,7 +86,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907631064 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908641325 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -94,7 +94,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907634170 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908644511 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -102,7 +102,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907637320 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908647642 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -110,7 +110,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907640426 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908650842 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -118,7 +118,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907643554 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908653952 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -126,7 +126,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907646682 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908657074 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -134,7 +134,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907649789 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908660189 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -142,7 +142,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907652908 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908663297 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -150,7 +150,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907656222 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908666488 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -158,7 +158,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907659333 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908669636 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -166,7 +166,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907662488 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908672762 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -174,7 +174,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907665625 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908675887 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -182,7 +182,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907668740 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908679014 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -190,7 +190,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907671860 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908682119 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -198,7 +198,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907674976 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908685252 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -206,7 +206,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907678097 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908688415 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -214,7 +214,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907681223 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908691523 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -222,7 +222,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907684405 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908694625 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -230,7 +230,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907687544 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908697750 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -238,7 +238,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907690662 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908700883 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -246,7 +246,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907693791 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908704043 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -254,7 +254,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907696964 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908707203 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -262,7 +262,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907700109 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908710361 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -270,7 +270,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907703242 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908713459 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -278,7 +278,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907706384 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908716580 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -286,7 +286,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907709501 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908719734 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -294,7 +294,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907712641 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908722869 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -302,7 +302,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907715768 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908725982 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -310,7 +310,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907718875 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908729141 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -318,7 +318,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907721984 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908732283 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -326,7 +326,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907725135 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908735441 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -334,7 +334,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907728259 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908738568 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -342,7 +342,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907731391 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908741675 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -350,7 +350,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907734531 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908744775 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -358,7 +358,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907737631 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908747879 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -366,7 +366,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907740783 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908751038 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -374,7 +374,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907743885 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908754164 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -382,7 +382,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907747010 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908757290 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -390,7 +390,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907750136 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908760454 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -398,7 +398,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907753279 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908763594 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -406,7 +406,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907756397 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908766733 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -414,7 +414,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907759520 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908769846 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -422,7 +422,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907762623 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908772979 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -430,7 +430,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907765761 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908776101 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -438,7 +438,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907768867 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908779209 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -446,7 +446,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907772016 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908782450 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -454,7 +454,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907775120 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908785555 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -462,7 +462,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907778244 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908788714 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -470,7 +470,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907781422 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908791833 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -478,7 +478,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907784539 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908794941 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -486,7 +486,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907787665 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908798059 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -494,7 +494,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907790795 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908801216 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -502,7 +502,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907793907 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908804349 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -510,7 +510,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907797007 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908807456 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -518,7 +518,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907800156 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908810572 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -526,7 +526,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907803277 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908813682 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -534,7 +534,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907806380 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908816793 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -542,7 +542,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907809682 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908819906 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -550,7 +550,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907812814 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908823028 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -558,7 +558,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907815954 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908826139 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -566,7 +566,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907819114 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908829282 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -574,7 +574,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907822236 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908832404 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -582,7 +582,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907825335 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908835506 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -590,7 +590,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907828450 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908838603 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -598,7 +598,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907831583 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908841719 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -606,7 +606,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907834729 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908844850 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -614,7 +614,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907837860 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908847967 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
@@ -622,1695 +622,7 @@ TUNNELS
 table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
 made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907840996 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907844103 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907847238 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907850365 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907853498 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907856628 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907859778 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907862920 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907866044 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907869188 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907872324 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907875440 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907878580 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907881801 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907884954 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907888061 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907891179 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907894313 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907897458 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907900560 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907903714 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907906861 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907910028 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907913175 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907916296 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907919424 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907922545 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907925707 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907928828 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907931942 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907935102 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907938231 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907941376 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907944513 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907947613 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907950758 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907953895 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907957058 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907960194 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907963318 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907966459 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907969575 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907972705 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907975829 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907978941 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907982049 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907985169 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907988296 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907991432 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907994665 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718907997802 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908000968 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908004123 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908007254 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908010377 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908013516 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908016628 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908019803 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908022984 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908026138 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908029311 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908032434 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908035584 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908038855 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908041963 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908045066 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908048187 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908051317 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908054456 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908057584 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908060727 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908063877 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908067040 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908070178 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908073307 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908076422 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908079533 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908082649 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908085766 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908089138 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908092321 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908095436 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908098570 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908101689 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908104805 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908107918 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908111065 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908114313 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908117546 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908120656 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908123791 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908126900 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908130020 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908133143 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908136334 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908139454 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908142556 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908145677 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908148795 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908151936 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908155071 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908158366 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908161489 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908164617 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908167714 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908170811 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908173941 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908177073 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908180181 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908183296 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908186433 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908189557 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908192658 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908195761 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908198867 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908202079 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908205272 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908208376 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908211526 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908214657 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908217784 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908220893 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908224009 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908227134 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908230273 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908233411 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908236543 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908239703 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908242817 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908245930 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908249074 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908252252 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908255493 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908258623 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908261992 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908265097 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908268215 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908271354 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908274495 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908277618 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908280795 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908283926 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908287048 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908290191 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908293322 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908296474 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908299635 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908302748 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908305876 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908309008 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908312288 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908315413 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908318576 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908321855 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908324993 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908328181 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908331335 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908334515 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908337652 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908340800 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908344041 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908347189 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908350311 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908353428 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908356579 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908359695 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908362827 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908366042 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908369227 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908372359 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908375524 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908378625 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908381893 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908385014 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908388262 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908391439 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908394565 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908397711 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908400838 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908403966 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908407103 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908410241 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908413396 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908416600 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908419786 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908422902 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908426026 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908429158 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908432303 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908435471 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908438642 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908441801 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908444916 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908448034 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908451143 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908454244 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908457386 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908460541 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908463676 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908466806 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908469921 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908473032 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908476154 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908479293 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908482390 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908485489 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908488641 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908491790 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908494911 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908498045 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908501235 tunnel running, 3 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-table-thanksgiving.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lines-highly.gl.at.ply.gg:2518 => 127.0.0.1:2518 (proto: Udp, port count: 1)
-made-succeed.gl.at.ply.gg:2520 => 127.0.0.1:2520 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1718908504380 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718908851134 tunnel running, 3 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
